@@ -1,5 +1,5 @@
 
-# Advinhador de Regras Numéricas
+# Adivinhador de Regras Numéricas
 
 Projeto acadêmico desenvolvido em dupla, em Python, para a disciplina MC102 (Algoritmos e Programação de Computadores), da Universidade Estadual de Campinas (Unicamp), no primeiro semestre de 2026.
 
@@ -115,6 +115,7 @@ O estado é reinicializado pelo ambiente de avaliação no início de cada parti
 
 ```text
 regras-numericas/
+├── .gitignore
 ├── player.py
 └── README.md
 ```
