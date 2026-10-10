@@ -37,7 +37,7 @@ def regra_das_potencias():
     A função é chamada somente se 1 pertence à regra. Então, chuta até a nona potência perfeita de 3 até que uma pertença à regra; nesse caso, imediatamente chuta a regra da potência na forma ["pot", p, 999], sendo 'p' o tamanho da lista das potências chutadas (que coincide com o logaritmo na base 3 do último número chutado). Se nenhuma das potências chutadas pertencer à regra, chuta a regra ["pot", 10, 999], alterando o modo de player de 'potências' para 'resto' ou encerrando o jogo (se, de fato, a regra for da potência perfeita de ordem 10).
 
     Retorna:
-        tipo_chute -- "NUMBER" (se o chute for de uma potência de dois), ou; "RULE" (se o chute for de regra).
+        tipo_chute -- "NUMBER" (se o chute for de uma potência de três), ou; "RULE" (se o chute for de regra).
         chute -- Uma potência de dois a ser chutada (se tipo_chute == "NUMBER"), ou; a regra da potência a ser chutada (se tipo_chute == "RULE"). 
     """
 
