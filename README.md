@@ -158,3 +158,12 @@ Portanto, a execução completa depende do ambiente original da disciplina ou de
 O projeto foi desenvolvido em dupla, envolvendo: planejamento de estratégias para identificar diferentes regras numéricas; implementação das funções em Python; utilização das respostas anteriores para orientar as próximas consultas; identificação e correção de problemas durante o desenvolvimento, e; avaliação do desempenho por meio de testes automatizados pela disciplina. 
 
 A avaliação considerava a taxa de sucesso na identificação das regras, o número de tentativas por partida e a qualidade da implementação.
+
+##Autores
+
+Projeto desenvolvido em dupla por:
+
+- Pedro Gouveia (https://github.com/o-pedrogouveia)
+- Rodrigo Couto (https://github.com/rodrigor-couto)
+
+Desenvolvido no primeiro semestre de 2026, na disciplina de MC102 da Unicamp.
