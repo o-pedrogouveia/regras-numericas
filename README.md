@@ -160,7 +160,7 @@ O projeto foi desenvolvido em dupla, envolvendo: planejamento de estratégias pa
 
 A avaliação considerava a taxa de sucesso na identificação das regras, o número de tentativas por partida e a qualidade da implementação.
 
-##Autores
+## Autores
 
 Projeto desenvolvido em dupla por:
 
