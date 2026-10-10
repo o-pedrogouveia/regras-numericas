@@ -158,7 +158,3 @@ Portanto, a execução completa depende do ambiente original da disciplina ou de
 O projeto foi desenvolvido em dupla, envolvendo: planejamento de estratégias para identificar diferentes regras numéricas; implementação das funções em Python; utilização das respostas anteriores para orientar as próximas consultas; identificação e correção de problemas durante o desenvolvimento, e; avaliação do desempenho por meio de testes automatizados pela disciplina. 
 
 A avaliação considerava a taxa de sucesso na identificação das regras, o número de tentativas por partida e a qualidade da implementação.
-
-## Considerações finais
-
-Este repositório documenta uma solução acadêmica desenvolvida durante o primeiro semestre da graduação em Ciência da Computação. O projeto proporcionou a aplicação prática de conceitos de programação e estratégias algorítmicas em um problema de identificação de regras desconhecidas.A implementação representa o estágio de conhecimento dos autores durante o desenvolvimento do trabalho e pode receber melhorias posteriores de organização, documentação e eficiência.
