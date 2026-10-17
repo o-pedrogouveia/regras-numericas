@@ -38,7 +38,7 @@ def regra_das_potencias():
 
     Retorna:
         tipo_chute -- "NUMBER" (se o chute for de uma potência de três), ou; "RULE" (se o chute for de regra).
-        chute -- Uma potência de dois a ser chutada (se tipo_chute == "NUMBER"), ou; a regra da potência a ser chutada (se tipo_chute == "RULE"). 
+        chute -- Uma potência de três a ser chutada (se tipo_chute == "NUMBER"), ou; a regra da potência a ser chutada (se tipo_chute == "RULE"). 
     """
 
     # Se uma potência pertencer à regra, chuta a regra (ps: se 3 pertencer à regra, muda de modo para intervalo).
